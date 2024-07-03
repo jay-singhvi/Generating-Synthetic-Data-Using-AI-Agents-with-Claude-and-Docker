@@ -1,0 +1,40 @@
+Exercise,Category,Equipment,Difficulty,MuscleGroup,CaloriesBurnedPer30Min,RecommendedSets,RecommendedReps
+Push-ups,Bodyweight,None,Beginner,Chest,100,3,15
+Squats,Bodyweight,None,Beginner,Legs,150,3,12
+Lunges,Bodyweight,None,Intermediate,Legs,125,3,10
+Plank,Bodyweight,None,Beginner,Core,90,3,60sec
+Burpees,Cardio,None,Advanced,Full Body,200,3,15
+Bench Press,Strength,Barbell,Intermediate,Chest,120,4,8
+Deadlifts,Strength,Barbell,Advanced,Back,180,3,6
+Pull-ups,Bodyweight,Pull-up Bar,Intermediate,Back,130,3,8
+Dips,Bodyweight,Parallel Bars,Intermediate,Triceps,110,3,12
+Crunches,Bodyweight,None,Beginner,Core,80,3,20
+Jumping Jacks,Cardio,None,Beginner,Full Body,140,3,30
+Mountain Climbers,Cardio,None,Intermediate,Full Body,160,3,20
+Leg Press,Strength,Machine,Beginner,Legs,130,3,12
+Bicep Curls,Strength,Dumbbells,Beginner,Arms,70,3,12
+Tricep Extensions,Strength,Dumbbells,Beginner,Arms,65,3,12
+Russian Twists,Bodyweight,None,Intermediate,Core,100,3,20
+Lat Pulldowns,Strength,Cable Machine,Intermediate,Back,110,3,10
+Shoulder Press,Strength,Dumbbells,Intermediate,Shoulders,90,3,10
+Leg Raises,Bodyweight,None,Intermediate,Core,85,3,15
+Box Jumps,Plyometric,Box,Advanced,Legs,180,3,10
+Kettlebell Swings,Strength,Kettlebell,Intermediate,Full Body,170,3,15
+Wall Sits,Bodyweight,None,Beginner,Legs,95,3,60sec
+Rowing,Cardio,Rowing Machine,Intermediate,Full Body,210,1,20min
+Cycling,Cardio,Stationary Bike,Beginner,Legs,190,1,30min
+Jump Rope,Cardio,Jump Rope,Intermediate,Full Body,220,3,5min
+Dumbbell Flyes,Strength,Dumbbells,Intermediate,Chest,80,3,12
+Leg Curls,Strength,Machine,Beginner,Legs,100,3,12
+Face Pulls,Strength,Cable Machine,Intermediate,Shoulders,75,3,15
+Calf Raises,Strength,Machine,Beginner,Legs,60,3,20
+Seated Row,Strength,Cable Machine,Intermediate,Back,100,3,12
+Glute Bridges,Bodyweight,None,Beginner,Glutes,70,3,15
+Side Planks,Bodyweight,None,Intermediate,Core,85,3,30sec
+Tricep Pushdowns,Strength,Cable Machine,Beginner,Arms,70,3,15
+Hammer Curls,Strength,Dumbbells,Beginner,Arms,65,3,12
+Leg Extensions,Strength,Machine,Beginner,Legs,90,3,12
+Reverse Flyes,Strength,Dumbbells,Intermediate,Shoulders,70,3,12
+Superman,Bodyweight,None,Beginner,Back,60,3,12
+Battle Ropes,Cardio,Battle Ropes,Advanced,Full Body,200,3,30sec
+Step-ups,Bodyweight,Bench,Intermediate,Legs,140,3,12

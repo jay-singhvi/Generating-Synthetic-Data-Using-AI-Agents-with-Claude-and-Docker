@@ -1,0 +1,39 @@
+# Ignore .env file
+.env
+env
+.venv
+
+# Ignore Git directory
+.git
+.gitignore
+
+# Ignore data directory
+data/
+
+# Ignore Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore any local configuration files
+*.cfg
+*.conf
+
+# Ignore any test files or directories
+test/
+tests/
